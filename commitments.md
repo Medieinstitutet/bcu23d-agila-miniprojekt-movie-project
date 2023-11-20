@@ -13,4 +13,4 @@
 
 Gruppkontraktet underskrivs av: 
 
-Gert-Ove Eng Jacobsson
+Gert-Ove Eng Jacobsso, Roman Potapov, 
