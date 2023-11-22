@@ -42,7 +42,9 @@ body {
   nav a:hover {
     color: #FF5E00; /* Change to your desired hover color */
   }
-  
+
+/*Media query for mobile*/  
+
   @media (max-width: 600px) {
     header {
       padding: 10px;
