@@ -80,4 +80,12 @@ main {
   font-size: 1.2rem;
   width: 100vw;
   max-height: auto;
+  place-items: center;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 100vw;
+  grid-gap: 10px;
 }
