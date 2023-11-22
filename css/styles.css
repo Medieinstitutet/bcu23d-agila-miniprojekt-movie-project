@@ -78,7 +78,7 @@ main {
   color: #FAF1CB;
   padding: 20px 20px;
   font-size: 1.2rem;
-  width: 100vw;
+  width: 100vw
   max-height: auto;
   place-items: center;
 }
@@ -129,6 +129,8 @@ main {
   align-items: center;
   background-color: #333;
   color: #FAF1CB;
+  padding: 10px;
+  text-align: center;
 }
 
 img:hover + .movie-description {
