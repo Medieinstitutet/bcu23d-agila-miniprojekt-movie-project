@@ -72,3 +72,12 @@ body {
 ----------------------- MAIN -----------------
 ----------------------------------------------
  */
+
+main {
+  background-color: #ff8b47;
+  color: #FAF1CB;
+  padding: 20px 20px;
+  font-size: 1.2rem;
+  width: 100vw;
+  max-height: auto;
+}
