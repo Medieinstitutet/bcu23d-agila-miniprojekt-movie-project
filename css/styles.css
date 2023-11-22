@@ -13,3 +13,11 @@ body {
     flex-direction: column; 
     align-items: center;
   }
+
+  .logo img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  
