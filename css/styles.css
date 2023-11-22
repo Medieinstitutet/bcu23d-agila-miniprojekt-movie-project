@@ -20,4 +20,26 @@ body {
     margin-bottom: 10px;
   }
 
+  nav ul {
+    list-style-type: none;
+    margin: 10px 0 0; /* Added margin for spacing on mobile */
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color:  #FAF1CB;
+    font-weight: bold;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #FF5E00; /* Change to your desired hover color */
+  }
   
