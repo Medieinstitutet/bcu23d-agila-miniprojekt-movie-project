@@ -43,3 +43,18 @@ body {
     color: #FF5E00; /* Change to your desired hover color */
   }
   
+  @media (max-width: 600px) {
+    header {
+      padding: 10px;
+    }
+  
+    nav ul {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    nav li {
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  }
