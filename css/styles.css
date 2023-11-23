@@ -136,7 +136,7 @@ main {
   color: #FAF1CB;
   padding: 20px 20px;
   font-size: 1.2rem;
-  width: 100vw
+  width: 100vw;
   max-height: auto;
   place-items: center;
 }
